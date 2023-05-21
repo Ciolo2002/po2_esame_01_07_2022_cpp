@@ -1,0 +1,8 @@
+//
+// Created by Michael Sarto on 21/05/23.
+//
+
+#ifndef PO2_ESAME_01_07_2022_CPP_SMART_PTR_H
+#define PO2_ESAME_01_07_2022_CPP_SMART_PTR_H
+
+#endif //PO2_ESAME_01_07_2022_CPP_SMART_PTR_H
